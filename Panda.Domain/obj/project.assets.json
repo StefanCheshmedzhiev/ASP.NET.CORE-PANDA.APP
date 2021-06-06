@@ -3659,11 +3659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stefan\\Desktop\\csharp-web-master\\2019-May-Season\\ASP-NET-Core\\01. ASP-NET-Core-Introduction\\PANDA\\src\\Panda.Domain\\Panda.Domain.csproj",
+      "projectUniqueName": "D:\\Source\\Repos\\ASP.NET.CORE-PANDA.APP\\Panda.Domain\\Panda.Domain.csproj",
       "projectName": "Panda.Domain",
-      "projectPath": "C:\\Users\\Stefan\\Desktop\\csharp-web-master\\2019-May-Season\\ASP-NET-Core\\01. ASP-NET-Core-Introduction\\PANDA\\src\\Panda.Domain\\Panda.Domain.csproj",
+      "projectPath": "D:\\Source\\Repos\\ASP.NET.CORE-PANDA.APP\\Panda.Domain\\Panda.Domain.csproj",
       "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stefan\\Desktop\\csharp-web-master\\2019-May-Season\\ASP-NET-Core\\01. ASP-NET-Core-Introduction\\PANDA\\src\\Panda.Domain\\obj\\",
+      "outputPath": "D:\\Source\\Repos\\ASP.NET.CORE-PANDA.APP\\Panda.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

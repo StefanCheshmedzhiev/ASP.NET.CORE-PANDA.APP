@@ -11,3 +11,16 @@ C:\Users\Stefan\Desktop\csharp-web-master\2019-May-Season\ASP-NET-Core\01. ASP-N
 C:\Users\Stefan\Desktop\csharp-web-master\2019-May-Season\ASP-NET-Core\01. ASP-NET-Core-Introduction\PANDA\src\Panda.Service\obj\Debug\netstandard2.0\Panda.Service.csproj.CopyComplete
 C:\Users\Stefan\Desktop\csharp-web-master\2019-May-Season\ASP-NET-Core\01. ASP-NET-Core-Introduction\PANDA\src\Panda.Service\obj\Debug\netstandard2.0\Panda.Service.dll
 C:\Users\Stefan\Desktop\csharp-web-master\2019-May-Season\ASP-NET-Core\01. ASP-NET-Core-Introduction\PANDA\src\Panda.Service\obj\Debug\netstandard2.0\Panda.Service.pdb
+D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.Service\bin\Debug\netstandard2.0\Panda.Service.deps.json
+D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.Service\bin\Debug\netstandard2.0\Panda.Service.dll
+D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.Service\bin\Debug\netstandard2.0\Panda.Service.pdb
+D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.Service\bin\Debug\netstandard2.0\Panda.Data.dll
+D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.Service\bin\Debug\netstandard2.0\Panda.Domain.dll
+D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.Service\bin\Debug\netstandard2.0\Panda.Data.pdb
+D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.Service\bin\Debug\netstandard2.0\Panda.Domain.pdb
+D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.Service\obj\Debug\netstandard2.0\Panda.Service.csprojAssemblyReference.cache
+D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.Service\obj\Debug\netstandard2.0\Panda.Service.AssemblyInfoInputs.cache
+D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.Service\obj\Debug\netstandard2.0\Panda.Service.AssemblyInfo.cs
+D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.Service\obj\Debug\netstandard2.0\Panda.Service.csproj.CopyComplete
+D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.Service\obj\Debug\netstandard2.0\Panda.Service.dll
+D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.Service\obj\Debug\netstandard2.0\Panda.Service.pdb
