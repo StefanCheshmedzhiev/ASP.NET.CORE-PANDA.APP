@@ -8,14 +8,16 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Panda.Data;
 using Panda.Domain;
+using Panda.Services;
 using System.Linq;
 
 namespace Panda.App
 {
     public class Startup
     {
+        
         public Startup(IConfiguration configuration)
-        {
+        {          
             Configuration = configuration;
         }
 
@@ -45,6 +47,9 @@ namespace Panda.App
             });
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddTransient<IPackagesService, PackagesService>();
+            services.AddTransient<IReceiptsService, ReceiptsService>();
+            services.AddTransient<IUsersService, UsersService>();
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
