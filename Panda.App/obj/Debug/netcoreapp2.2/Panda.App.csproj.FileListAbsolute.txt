@@ -76,11 +76,6 @@ D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Razor\A
 D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
-D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Packages\Create.cshtml.g.cs
-D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Packages\Delivered.cshtml.g.cs
-D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Packages\Details.cshtml.g.cs
-D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Packages\Pending.cshtml.g.cs
-D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Packages\Shipped.cshtml.g.cs
 D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Receipts\Details.cshtml.g.cs
 D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Receipts\My.cshtml.g.cs
 D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
@@ -95,3 +90,8 @@ D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Panda.A
 D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.csproj.CopyComplete
 D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.dll
 D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.pdb
+D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Packages\Create.cshtml.g.cs
+D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Packages\Pending.cshtml.g.cs
+D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Packages\Shipped.cshtml.g.cs
+D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Packages\Delivered.cshtml.g.cs
+D:\Source\Repos\ASP.NET.CORE-PANDA.APP\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Packages\Details.cshtml.g.cs
